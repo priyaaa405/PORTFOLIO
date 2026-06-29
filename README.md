@@ -29,7 +29,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 ## 📸 Preview
 
-Open the website after deployment:
+Open :
 https://priyaaa405.github.io/PORTFOLIO/
 
 ## 📬 Connect With Me
